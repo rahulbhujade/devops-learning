@@ -16,6 +16,10 @@ namespace StaticClassExamples
         public class BaseClass
         { 
             //New Base Class
+
+            //New 
         }
+
+       
     }
 }
