@@ -10,6 +10,12 @@ namespace StaticClassExamples
     {
         static void Main(string[] args)
         {
+
+        }
+
+        public class BaseClass
+        { 
+            //New Base Class
         }
     }
 }
